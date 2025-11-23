@@ -289,11 +289,11 @@ ansible-playbook -i inventory site.yml
 
 - Write an Ansible playbook to deploy an HTTP server, create users, and push a config file.
 
-# Module 14 — Containers & Podman
+# Module 14 — Containers , Docker & Podman
 
 ## Topics
 
-- Containers concept, podman basics (build, run, images)
+- Containers concept, docker, podman basics (build, run, images)
 
 - Basic container networking and volumes
 
