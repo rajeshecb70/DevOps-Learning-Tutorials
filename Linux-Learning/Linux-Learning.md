@@ -27,7 +27,7 @@ RHCSA focuses on core sysadmin tasks. Each module includes topics, commands to p
 
 - Filesystem hierarchy (/, /etc, /var, /home, /usr, /opt, /tmp)
 
-- Basic commands: ls, cd, pwd, cp, mv, rm, mkdir, rmdir
+- Basic commands: ls, cd, pwd, cp, mv, rm, mkdir, rmdir,date, cal, rm
 
 - File viewing/editing: cat, less, head, tail, nano, vim
 
